@@ -185,5 +185,4 @@ T = Tree()
 for i in range(len(string)):
     T.add_char(string[i])
 
-# Does not look so good
 print T
